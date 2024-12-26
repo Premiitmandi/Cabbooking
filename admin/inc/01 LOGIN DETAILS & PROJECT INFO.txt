@@ -1,9 +1,9 @@
 
 
-**Database Name: cbsphp**
 
 
-**Recommended PHP Version 7.4**
+
+
 
 
 **Admin Login Details**
